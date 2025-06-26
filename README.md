@@ -17,7 +17,7 @@ This is an Android application built with Kotlin that provides a complete health
 *   Android device running Android 7.0 (API level 24) or higher
 *   Android device in [developer mode](https://developer.android.com/studio/debug/dev-options) with USB debugging enabled
 *   USB cable (to connect Android device to your computer)
-
+*   Run The Backend Server [![Run Server](https://img.shields.io/badge/Start%20Backend-Click%20Here-brightgreen?style=for-the-badge)](https://github.com/neilmahinay021/Healthedge)
 
 ### 1. Secure Login & Registration
 
@@ -65,6 +65,8 @@ This is an Android application built with Kotlin that provides a complete health
 ### 10. Face Scanning Logs
 ![12](https://github.com/user-attachments/assets/8458cfb8-1ade-41d5-b876-af2fed1a4dce)
 
+
+[![Watch the video](https://img.shields.io/badge/Watch-Demo-red?logo=youtube)](https://youtu.be/HKcnV6dLN1E)
 
 ## Researcher/Developer:
 * Kathlyn Celestial
